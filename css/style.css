@@ -1316,7 +1316,7 @@ body.dark .theme-btn {
 
 .home2-hero-section {
     min-height: 95vh;
-    background: url('../img/bg.png') top center no-repeat;
+    background: url('../img/off1.jpg') top center no-repeat;
     background-size: cover;
     color: #000;
     display: flex;
@@ -2270,4 +2270,10 @@ right: 394px;
 }
 .key-benefits {
   margin-bottom: 60px;
+}
+.home2-title.mb-4 {
+  color: #fff;
+}
+.home2-text.mb-4,.home2-subtitle {
+  color: #fff;
 }
