@@ -2281,3 +2281,10 @@ right: 394px;
 {
    background:#000; 
 }
+.container-fluid.page-header {
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  text-align: center;
+  display: inline-grid;
+}
