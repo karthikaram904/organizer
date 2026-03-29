@@ -2277,3 +2277,7 @@ right: 394px;
 .home2-text.mb-4,.home2-subtitle {
   color: #fff;
 }
+.dark .form-floating .form-control
+{
+   background:#000; 
+}
